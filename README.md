@@ -5,7 +5,7 @@ Projet de la formation OpenClassrooms intégrateur web dont voici les objectifs:
 - Ajout de nouveaux éléments HTML/CSS, section, images et alt.
 - Ajout de lien de téléchargement pour les plannings.
 
-### Instructions
+## Instructions
 
 - Lancer le projet avec liveserver
 
