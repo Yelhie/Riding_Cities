@@ -24,4 +24,4 @@ Projet de la formation OpenClassrooms intégrateur web dont voici les objectifs:
 
 **Home page**
 
-![Riding Cities home page](https://github.com/Yelhie/xi5ftcai605u/blob/master/img/ridingcities_23145305.jpg)
+![Riding Cities home page](https://yelhie.github.io/Riding_Cities/blob/master/screenshot/ridingcities_23145305.jpg)
