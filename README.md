@@ -13,12 +13,12 @@ Projet de la formation OpenClassrooms intégrateur web dont voici les objectifs:
 
 [Démo Riding Cities](https://yelhie.github.io/Riding_Cities/)
 
-## Stack
+## Stack Technique
 
-**Client:**
-
-- HTML
-- Css
+|  Backend   | Frontend | Base de données | Documentation API et Test |
+|:----------:|:--------:|:---------------:|:-------------------------:|
+|  |    HTML   |                 |                   |
+|  |    CSS  |               |                     |
 
 ## Screenshots
 
